@@ -1,1 +1,1 @@
-# Final-project-the-lucky-shot
+# Final-project-chance-shooting-game
